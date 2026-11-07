@@ -74,7 +74,7 @@ Ecommerce-Sales-Analysis/
 ├── README.md
 │
 └── SQL-Scripts/
-    ├── 00_Database_Setuo.sql
+    ├── 00_Database_Setup.sql
     ├── 01_Sales_Overview.sql
     ├── 02_Product_Category_Analysis.sql
     ├── 03_Monthly_Yearly_Sales_Analysis.sql
